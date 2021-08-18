@@ -1,0 +1,6 @@
+In Python you can create a list and add items to that list.
+
+In Python you can loop through that list and complete various functions.
+
+In Python you can ask for user input and compelete certain functions based on that input.
+
